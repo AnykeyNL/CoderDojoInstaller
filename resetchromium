@@ -1,0 +1,2 @@
+rm -R ~/.config/chromium/
+unzip ~/chromiumconfig.zip -d ~/.config/

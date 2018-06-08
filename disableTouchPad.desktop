@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=DisableTouchPad
+Exec=disableTouchPad.sh
+Icon=galculator
+Terminal=true
+Type=Application
+Categories=Utility;
+StartupNotify=true

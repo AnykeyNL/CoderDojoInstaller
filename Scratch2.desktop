@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/opt/adobe-air-sdk/adobe-air/adobe-air /opt/adobe-air-sdk/scratch/Scratch-456.0.1.air
+Icon=/opt/adobe-air-sdk/scratch/scratch.png
+Terminal=false
+Name=Scratch 2
+Comment=Programming system and content development tool
+Categories=Application;Education;Development;ComputerScience;
+MimeType=application/x-scratch-project
+
+
+

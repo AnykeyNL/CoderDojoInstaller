@@ -1,0 +1,8 @@
+#!/usr/bin/expect
+spawn passwd root
+expect "Nieuw UNIX-wachtwoord invoeren:"
+send "coderdojo2018\r"
+expect "Nieuw UNIX-wachtwoord herhalen:"
+send "coderdojo2018\r"
+interact
+

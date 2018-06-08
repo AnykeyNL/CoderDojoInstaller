@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=/usr/local/bin/s2aio
+Icon=/opt/adobe-air-sdk/scratch/scratch.png
+Terminal=true
+Name=S2AIO
+Comment=Scratch to Arduino
+Categories=Application;Education;Development;ComputerScience;
+MimeType=application/x-scratch-project
+
+
